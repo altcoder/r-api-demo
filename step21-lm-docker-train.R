@@ -1,6 +1,8 @@
 # Reference: https://www.rplumber.io/docs/hosting.html#docker
 # step21-lm-docker-train.R
 
+# NO CODE HERE. Please refer to main.R, predict.R and train.R for actual code referenced in the comments below
+
 # Follow the instructions from the plumber website for the docker part
 # On Mac:
 # 1. docker-machine start vbox
